@@ -33,9 +33,7 @@ The MolSSI color palette consists of black, gray, and red. The RGB and hex value
 ![#ed1c24ff](https://placehold.it/100x50/ed1c24ff/000000?text=+) `#ed1c24ff`
 
 ## Typography
-
-The font used for most text is Montserrat. 
-
+ 
 DIN Condensed is used for titles and the text in MolSSI main logo #2. 
 
 ## Presentation Templates
