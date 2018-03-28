@@ -28,7 +28,7 @@ The MolSSI logo is modified for some special projects. The modification should b
 ## Color Palette
 The MolSSI color palette consists of black, gray, and red. The RGB and hex values of these colors are listed below.
 
-![#393536ff](https://placehold.it/100x50/393536ff/000000?text=+) `#393536ff` \ `RGB 57. 53, 54`
+![#393536ff](https://placehold.it/100x50/393536ff/000000?text=+) `#393536ff` \ `RGB 57, 53, 54`
 
 ![#ed1c24ff](https://placehold.it/100x50/ed1c24ff/000000?text=+) `#ed1c24ff` \ `RGB 237, 28, 36`
 
@@ -41,5 +41,8 @@ DIN Condensed is used for titles and the text in MolSSI main logo #2.
 ## Presentation Templates
 
 ### NSF Site Visit Poster Template
+The poster template for the NSF site visit is `powerpoint_template\nsf_site_visit_template.pptx`. Please note that this template has the MolSSI logo, NSF logo (lower right corner), and a spot for the Software Fellow's institution logo (upper left corner). The fonts for this template are DIN and DIN Condensed, which can be found in in the `fonts` directory. 
+
+Posters for the 2018 site visit are due by April 9, 2018.
 
 ## HTML Email Signature Templates
