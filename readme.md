@@ -28,14 +28,18 @@ The MolSSI logo is modified for some special projects. The modification should b
 ## Color Palette
 The MolSSI color palette consists of black, gray, and red. The RGB and hex values of these colors are listed below.
 
-![#393536ff](https://placehold.it/100x50/393536ff/000000?text=+) `#393536ff`
+![#393536ff](https://placehold.it/100x50/393536ff/000000?text=+) `#393536ff` \ `RGB 57. 53, 54`
 
-![#ed1c24ff](https://placehold.it/100x50/ed1c24ff/000000?text=+) `#ed1c24ff`
+![#ed1c24ff](https://placehold.it/100x50/ed1c24ff/000000?text=+) `#ed1c24ff` \ `RGB 237, 28, 36`
 
 ## Typography
+
+MolSSI uses the fonts DIN and DIN Condensed. Both of these can be found in the fonts directory. 
  
 DIN Condensed is used for titles and the text in MolSSI main logo #2. 
 
 ## Presentation Templates
+
+### NSF Site Visit Poster Template
 
 ## HTML Email Signature Templates
