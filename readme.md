@@ -23,7 +23,16 @@ There are two MolSSI logos. The logo saying "MolSSI" should  be used for most Mo
 The MolSSI logo is modified for some special projects. The modification should be done to the "molecule" attached to the 'o' in MolSSI.
 
 <img src="logos/molssi_integral.png" width="50%">
-<br><sub> Logo for the MolSSI Integral Reference Project</sub>
+<br><sub> Logo for the MolSSI Integral Reference Project</sub>  
+
+
+
+## Acknowledging MolSSI Funding
+Work funded by MolSSI should acknowledge NSF grant ACI-1547580 on all publications and presentations. 
+
+Software fellows publications might use:
+
+> "`Software Fellow Name` was supported by a fellowship from The Molecular Sciences Software Institute under NSF grant ACI-1547580"
 
 ## Color Palette
 The MolSSI color palette consists of black, gray, and red. The RGB and hex values of these colors are listed below.
