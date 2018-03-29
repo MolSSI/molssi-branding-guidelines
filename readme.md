@@ -25,10 +25,11 @@ The MolSSI logo is modified for some special projects. The modification should b
 <img src="logos/molssi_integral.png" width="50%">
 <br><sub> Logo for the MolSSI Integral Reference Project</sub>  
 
-
 <img src="logos/molssi_sss.jpg" width="50%">
 <br><sub> Logo for the MolSSI Education Programs</sub>  
 
+<img src="logos/molsscafe.jpg" width="50%">
+<br><sub> Logo for the MolSSI Cafe at HQ</sub>  
 
 ## Acknowledging MolSSI Funding
 Work funded by MolSSI should acknowledge NSF grant ACI-1547580 on all publications and presentations. 
