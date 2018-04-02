@@ -31,6 +31,9 @@ The MolSSI logo is modified for some special projects. The modification should b
 <img src="logos/molsscafe.jpg" width="50%">
 <br><sub> Logo for the MolSSI Cafe at HQ</sub>  
 
+<img src="logos/molssi_framework.png" width="50%">
+<br><sub> Logo for the MolSSI Framework Project</sub>  
+
 ## Acknowledging MolSSI Funding
 Work funded by MolSSI should acknowledge NSF grant ACI-1547580 on all publications and presentations. 
 
