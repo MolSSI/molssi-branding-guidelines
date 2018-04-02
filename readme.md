@@ -27,7 +27,7 @@ These versions of the logo should be used in media with dark backgrounds.
 <br><sub> MolSSI Logo #1 </sub>
 
 <center>
-<img src="logos/main_logo/molssi_main_horizontal_inverted.png" width="50%">
+<img src="logos/main_logo/molssi_main_logo_horizontal_inverted.png" width="50%">
 </center>
 <br><sub> MolSSI Logo #2 </sub>
 
