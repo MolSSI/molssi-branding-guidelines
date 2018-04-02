@@ -18,6 +18,19 @@ There are two MolSSI logos. The logo saying "MolSSI" should  be used for most Mo
 </center>
 <br><sub> MolSSI Logo #2 </sub>
 
+### Inverted MolSSI Logos
+These versions of the logo should be used in media with dark backgrounds.
+
+<center>
+<img src="logos/main_logo/molssi_main_logo_inverted.png" width="50%">
+</center>
+<br><sub> MolSSI Logo #1 </sub>
+
+<center>
+<img src="logos/main_logo/molssi_main_horizontal_inverted.png" width="50%">
+</center>
+<br><sub> MolSSI Logo #2 </sub>
+
 ### Special MolSSI Logos
 
 The MolSSI logo is modified for some special projects. The modification should be done to the "molecule" attached to the 'o' in MolSSI.
