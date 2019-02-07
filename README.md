@@ -27,7 +27,7 @@ These versions of the logo should be used in media with dark backgrounds.
 <br><sub> MolSSI Logo #1 </sub>
 
 <center>
-<img src="logos/main_logo/molssi_main_logo_horizontal_inverted.png" width="50%">
+<img src="logos/main_logo/molssi_main_horizontal_inverted.png" width="50%">
 </center>
 <br><sub> MolSSI Logo #2 </sub>
 
@@ -48,7 +48,7 @@ The MolSSI logo is modified for some special projects. The modification should b
 <br><sub> Logo for the MolSSI Framework Project</sub>  
 
 ## Acknowledging MolSSI Funding
-Work funded by MolSSI should acknowledge NSF grant ACI-1547580 on all publications and presentations. 
+Work funded by MolSSI should acknowledge NSF grant ACI-1547580 on all publications and presentations.
 
 Software fellows publications might use:
 
@@ -63,13 +63,13 @@ The MolSSI color palette consists of black, gray, and red. The RGB and hex value
 
 ## Typography
 
-MolSSI uses the fonts DIN and DIN Condensed. Both of these can be found in the fonts directory. 
- 
-DIN Condensed is used for titles and the text in MolSSI main logo #2. 
+MolSSI uses the fonts DIN and DIN Condensed. Both of these can be found in the fonts directory.
+
+DIN Condensed is used for titles and the text in MolSSI main logo #2.
 
 ## Presentation Templates
 
 ### NSF Site Visit Poster Template
-The poster template for the NSF site visit is `powerpoint_template/nsf_site_visit_template.pptx`. Please note that this template has the MolSSI logo, NSF logo (lower right corner), and a spot for the Software Fellow's institution logo (upper left corner). The fonts for this template are DIN and DIN Condensed, which can be found in in the `fonts` directory. 
+The poster template for the NSF site visit is `powerpoint_template/nsf_site_visit_template.pptx`. Please note that this template has the MolSSI logo, NSF logo (lower right corner), and a spot for the Software Fellow's institution logo (upper left corner). The fonts for this template are DIN and DIN Condensed, which can be found in in the `fonts` directory.
 
 ## HTML Email Signature Templates
