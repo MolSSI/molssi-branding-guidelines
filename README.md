@@ -47,6 +47,13 @@ The MolSSI logo is modified for some special projects. The modification should b
 <img src="logos/molssi_framework.png" width="50%">
 <br><sub> Logo for the MolSSI Framework Project</sub>  
 
+### Project Logos
+
+This section is for MolSSI projects which have their own logos.
+
+<img src="logos/qcarchive/QCArchiveLogo.png" width="50%">
+<br><sub>QCArchive main logo</sub>  
+
 ## Acknowledging MolSSI Funding
 Work funded by MolSSI should acknowledge NSF grant ACI-1547580 on all publications and presentations.
 
