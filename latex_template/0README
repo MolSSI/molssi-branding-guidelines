@@ -1,0 +1,10 @@
+# MolSSI Brand Guidelines
+
+# FONTS
+# To use the proper DIN fonts lualatex must be used
+# The style file is set up to look down one directory for the fonts directory,
+# so if you are changing the directory structure the style files path will need
+# to be updated
+
+# Boarder
+# lualatex must be run twice for it to generate the poster boarder correctly.
