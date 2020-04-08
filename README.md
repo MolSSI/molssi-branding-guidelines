@@ -59,7 +59,7 @@ Work funded by MolSSI should acknowledge NSF grant ACI-1547580 on all publicatio
 
 Software fellows publications might use:
 
-> "`Software Fellow Name` was supported by a fellowship from The Molecular Sciences Software Institute under NSF grant ACI-1547580"
+> "`Software Fellow Name` was supported by a fellowship from The Molecular Sciences Software Institute under NSF grant OAC-1547580"
 
 ## Color Palette
 The MolSSI color palette consists of black, gray, and red. The RGB and hex values of these colors are listed below.
