@@ -55,11 +55,11 @@ This section is for MolSSI projects which have their own logos.
 <br><sub>QCArchive main logo</sub>  
 
 ## Acknowledging MolSSI Funding
-Work funded by MolSSI should acknowledge NSF grant ACI-1547580 on all publications and presentations.
+Work funded by MolSSI should acknowledge NSF grant CHE-2136142 on all publications and presentations.
 
 Software fellows publications might use:
 
-> "`Software Fellow Name` was supported by a fellowship from The Molecular Sciences Software Institute under NSF grant OAC-1547580"
+> "`Software Fellow Name` was supported by a fellowship from The Molecular Sciences Software Institute under NSF grant CHE-2136142"
 
 ## Color Palette
 The MolSSI color palette consists of black, gray, and red. The RGB and hex values of these colors are listed below.
